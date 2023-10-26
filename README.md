@@ -1,9 +1,6 @@
 # HierarchyHelper
 
-HierarchyHelper is a Django project that includes the `org_tree` app, designed to visualize hierarchical structures such as department trees, and more.
-## Features
-- **Visual Representation**: Displaying the structure sequentially without the need for writing additional codes.
-
+HierarchyHelper is a Django project designed to visualize hierarchical structures, like department trees.
 ## Installation
 
 1. **Clone the Repository**: 
