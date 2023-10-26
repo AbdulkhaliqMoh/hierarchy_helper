@@ -46,14 +46,9 @@ HierarchyHelper is a Django project that includes the `org_tree` app, designed t
 
     Visit `http://127.0.0.1:8000/units` in your browser.
 
-## Usage
-
-- **Admin Interface**: Access the Django admin site at `http://127.0.0.1:8000/admin` to manage your hierarchical data.
-- **Public Interface**: Navigate through the hierarchical structures using the provided user interface.
-
 ## Contributing
 
-Contributions are welcome! Please feel free to submit pull requests, report bugs, or suggest features.
+Contributions are welcome!
 
 1. **Fork the Repository**: Click the "Fork" button on the top-right of the repository's page.
 2. **Clone Your Fork**: 
