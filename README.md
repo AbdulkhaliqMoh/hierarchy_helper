@@ -46,9 +46,3 @@ HierarchyHelper is a Django project designed to visualize hierarchical structure
 ## Contributing
 
 Contributions are welcome!
-
-    ```bash
-    git push origin feature-branch
-    ```
-
-7. **Create a Pull Request**: Go to your fork on GitHub and click the "Compare & pull request" button. Fill out the form and submit.
