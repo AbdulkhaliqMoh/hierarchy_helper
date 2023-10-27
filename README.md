@@ -47,30 +47,6 @@ HierarchyHelper is a Django project designed to visualize hierarchical structure
 
 Contributions are welcome!
 
-1. **Fork the Repository**: Click the "Fork" button on the top-right of the repository's page.
-2. **Clone Your Fork**: 
-
-    ```bash
-    git clone https://github.com/yourusername/hierarchy_helper-fork.git
-    cd hierarchy_helper-fork
-    ```
-
-3. **Create a Branch**: 
-
-    ```bash
-    git checkout -b feature-branch
-    ```
-
-4. **Make Your Changes**: Add, edit, or remove files as needed.
-5. **Commit Your Changes**: 
-
-    ```bash
-    git add .
-    git commit -m "Describe your changes"
-    ```
-
-6. **Push to GitHub**: 
-
     ```bash
     git push origin feature-branch
     ```
